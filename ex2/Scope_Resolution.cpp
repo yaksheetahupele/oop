@@ -11,3 +11,4 @@ int main()
     cout << "Global variable x = " << ::x << endl;
 
     return 0;
+}
